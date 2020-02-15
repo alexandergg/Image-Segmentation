@@ -1,4 +1,4 @@
-name: idom
+name: hed
 channels:
   - defaults
 dependencies:
