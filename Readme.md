@@ -34,11 +34,11 @@ Create the virtual environment using the * environment.yml * file (contains all 
 
 To activate the created environment
 
-`activate idom`
+`activate hed`
 
 To deactivate the current environment
 
-`deactivate idom`
+`deactivate hed`
 
 To update the environment with new dependencies (the current environment must be disabled)
 
